@@ -1,1 +1,1 @@
-# rURL
+Simple implementation of cURL in Rust

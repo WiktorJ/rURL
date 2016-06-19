@@ -1,0 +1,6 @@
+[package]
+name = "rURL"
+version = "0.1.0"
+authors = ["wiktor <wiktor.jurasz@gmail.com>"]
+
+[dependencies]
